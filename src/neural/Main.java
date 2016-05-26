@@ -1,4 +1,6 @@
-package neural.perceptron;
+package neural;
+
+import neural.perceptron.MLP;
 
 public class Main {
 
